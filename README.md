@@ -1,5 +1,15 @@
 # House Price Prediction System with Login
 
+NAME : SHAURYA PAREEK
+
+REG.NO : 25BHI10041
+
+FACULTY : MS.MONICA SANKAT
+
+SLOT : C11+C12+C13
+
+COURSE : B.TECH
+
 ## Description
 This project is a Machine Learning-based system that predicts house prices based on user inputs such as area, number of bedrooms, and bathrooms.
 
